@@ -1,0 +1,7 @@
+C:\Users\Mecha\Desktop\a\SHARP\Consola\Ejercicio_1\bin\Debug\Ejercicio_1.exe.config
+C:\Users\Mecha\Desktop\a\SHARP\Consola\Ejercicio_1\bin\Debug\Ejercicio_1.exe
+C:\Users\Mecha\Desktop\a\SHARP\Consola\Ejercicio_1\bin\Debug\Ejercicio_1.pdb
+C:\Users\Mecha\Desktop\a\SHARP\Consola\Ejercicio_1\obj\Debug\Ejercicio_1.csproj.AssemblyReference.cache
+C:\Users\Mecha\Desktop\a\SHARP\Consola\Ejercicio_1\obj\Debug\Ejercicio_1.csproj.CoreCompileInputs.cache
+C:\Users\Mecha\Desktop\a\SHARP\Consola\Ejercicio_1\obj\Debug\Ejercicio_1.exe
+C:\Users\Mecha\Desktop\a\SHARP\Consola\Ejercicio_1\obj\Debug\Ejercicio_1.pdb
